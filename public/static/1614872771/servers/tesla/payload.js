@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/servers/tesla", {data:[{}],fetch:[],mutations:[["serversModule\u002Fupdate",2]]});
