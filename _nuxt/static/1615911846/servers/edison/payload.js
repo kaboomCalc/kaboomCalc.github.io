@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/servers/edison", {data:[{}],fetch:[],mutations:[["serversModule\u002Fupdate",4]]});

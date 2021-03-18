@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/servers/skyfactory", {data:[{}],fetch:[],mutations:[["serversModule\u002Fupdate",0]]});
