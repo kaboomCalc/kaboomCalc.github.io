@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/servers/spacex", {data:[{}],fetch:[],mutations:[["serversModule\u002Fupdate",6]]});
